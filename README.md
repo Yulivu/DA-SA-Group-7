@@ -14,6 +14,7 @@ The project aims to provide insights into how demographic factors influence perc
 
 ## The data set related to the research question:
 Information: [Open Humanities Data Article](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.200)
+
 Dataset DOI: [A Dataset of Young People’s Perception on Dissemination of Government Propaganda and Socialist Culture Content in China. - Mendeley Data](https://data.mendeley.com/datasets/mzptp5cmr7/1)
 
 
