@@ -21,17 +21,13 @@ Dataset DOI: [A Dataset of Young People’s Perception on Dissemination of Gover
 
 ## Project Setup Guide
 
-Install External Libraries
+Clone the project to your local working environment and install the external libraries, This project relies on the following Python libraries: pandas, seaborn, matplotlib, scipy, scikit-learn, and statsmodels. 
 
-This project relies on the following Python libraries: pandas, seaborn, matplotlib, scipy, scikit-learn, and statsmodels. You can install these libraries using the following command:
+You can install these libraries using the following command:
 
-Copy this command to install the necessary libraries:
+# pip install pandas seaborn matplotlib scipy scikit-learn statsmodels
 
-#pip install pandas seaborn matplotlib scipy scikit-learn statsmodels
-
-Modify Data File Path
-
-Please modify the data file path in the code according to your local environment. For example, the default data path in the code is:
+And don't forget to modify Data File Path, please modify the data file path in the code according to your local environment. For example, the default data path in the code is:
 
 C:\Users\debuf\Desktop\china\project\dataset\Data.csv
 
