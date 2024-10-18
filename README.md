@@ -17,7 +17,8 @@ Information: [Open Humanities Data Article](https://openhumanitiesdata.metajnl.c
 Dataset DOI: [A Dataset of Young People’s Perception on Dissemination of Government Propaganda and Socialist Culture Content in China. - Mendeley Data](https://data.mendeley.com/datasets/mzptp5cmr7/1)
 
 
-### Project Setup Guide
+
+## Project Setup Guide
 
 Install External Libraries
 
@@ -25,7 +26,7 @@ This project relies on the following Python libraries: pandas, seaborn, matplotl
 
 Copy this command to install the necessary libraries:
 
-pip install pandas seaborn matplotlib scipy scikit-learn statsmodels
+#pip install pandas seaborn matplotlib scipy scikit-learn statsmodels
 
 Modify Data File Path
 
