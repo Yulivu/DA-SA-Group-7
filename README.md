@@ -25,7 +25,7 @@ Clone the project to your local working environment and install the external lib
 
 You can install these libraries using the following command:
 
-# pip install pandas seaborn matplotlib scipy scikit-learn statsmodels
+### pip install pandas seaborn matplotlib scipy scikit-learn statsmodels
 
 And don't forget to modify Data File Path, please modify the data file path in the code according to your local environment. For example, the default data path in the code is:
 
