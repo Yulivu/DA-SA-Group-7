@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98b133c1-f4d9-4683-a99c-41d80bc6e224" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/china.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/china.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2th-Oct-presentation/pre.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2th-Oct-presentation/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-3-Project-proposal-and-group-charter/Charter for group 7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-3-Project-proposal-and-group-charter/Proposal for Group7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-7-Documentation-of-the-Workflow/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-7-Project-Presentation/Slides for Presentation-Group7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-7-Project-Presentation/test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/src/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2nQSJCXnQk0VuZAxliGZ0ZJ8oMt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.image.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98b133c1-f4d9-4683-a99c-41d80bc6e224" name="Changes" comment="" />
+      <created>1728903732802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728903732802</updated>
+      <workItem from="1728903735127" duration="5708000" />
+      <workItem from="1728984868302" duration="1334000" />
+      <workItem from="1728995384940" duration="6027000" />
+      <workItem from="1729001501262" duration="12000" />
+      <workItem from="1729078477595" duration="14650000" />
+      <workItem from="1729133189084" duration="10263000" />
+      <workItem from="1729229253143" duration="267000" />
+      <workItem from="1729231159015" duration="28000" />
+      <workItem from="1729231461427" duration="62000" />
+      <workItem from="1729231542341" duration="28000" />
+      <workItem from="1729231841226" duration="886000" />
+      <workItem from="1729235674656" duration="2072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/china$image.coverage" NAME="image Coverage Results" MODIFIED="1729141930784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/src" />
+    <SUITE FILE_PATH="coverage/china$main.coverage" NAME="main Coverage Results" MODIFIED="1729236326550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/src" />
+  </component>
+</project>
