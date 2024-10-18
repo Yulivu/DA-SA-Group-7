@@ -7,7 +7,8 @@ Install External Libraries
 This project relies on the following Python libraries: pandas, seaborn, matplotlib, scipy, scikit-learn, and statsmodels. You can install these libraries using the following command:
 
 Copy this command to install the necessary libraries:
-**pip install pandas seaborn matplotlib scipy scikit-learn statsmodels
+
+pip install pandas seaborn matplotlib scipy scikit-learn statsmodels
 
 Modify Data File Path
 
