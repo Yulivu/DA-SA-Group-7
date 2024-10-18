@@ -1,5 +1,8 @@
 # DA-SA-Group-7
 Group 7's project repositoty
+GitHub Repository: Introduction to Digital Humanities and Social Analytics Group7
+Information: Open Humanities Data Article
+
 ### Project Setup Guide
 
 Install External Libraries
